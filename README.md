@@ -51,7 +51,6 @@ Input : 5
 Output : * * * * *
 9. Write a program which display first 10 even numbers on screen.
 Output :2 4 6 8 10 12 14 16 18 20
-
 10. Write a program which accept name from user and display length of its name.
 Input : Marvellous
 Output : 10
