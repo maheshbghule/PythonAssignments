@@ -1,7 +1,8 @@
-# PythonAssignments
+# Assignment 1
 
 1.Write a program which contains one function named as Fun(). That function should display
 “Hello from Fun” on console.
+
 2. Write a program which contains one function named as ChkNum() which accept one
 parameter as number. If number is even then it should display “Even number” otherwise
 display “Odd number” on console.
