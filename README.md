@@ -48,22 +48,10 @@ Input : 25
 Output : True
 8. Write a program which accept number from user and print that number of “*” on screen.
 Input : 5
-Output : * *
-*
-*
-*
+Output : * * * * *
 9. Write a program which display first 10 even numbers on screen.
-Output :
-2
-4
-6
-8
-10
-12
-14
-16
-18
-20
+Output :2 4 6 8 10 12 14 16 18 20
+
 10. Write a program which accept name from user and display length of its name.
 Input : Marvellous
 Output : 10
